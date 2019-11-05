@@ -1,0 +1,7 @@
+---
+custom_attributes:
+  challenge_password: sup3rSecr3tPassw0rd
+extension_requests:
+  pp_region: us-west-2
+  pp_datacenter: Plano
+  pp_role: test-box
